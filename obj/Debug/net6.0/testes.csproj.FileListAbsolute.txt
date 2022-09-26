@@ -1,0 +1,15 @@
+C:\ws-vs2022\testes\testes\bin\Debug\net6.0\testes.exe
+C:\ws-vs2022\testes\testes\bin\Debug\net6.0\testes.deps.json
+C:\ws-vs2022\testes\testes\bin\Debug\net6.0\testes.runtimeconfig.json
+C:\ws-vs2022\testes\testes\bin\Debug\net6.0\testes.dll
+C:\ws-vs2022\testes\testes\bin\Debug\net6.0\testes.pdb
+C:\ws-vs2022\testes\testes\obj\Debug\net6.0\testes.csproj.AssemblyReference.cache
+C:\ws-vs2022\testes\testes\obj\Debug\net6.0\testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\testes\testes\obj\Debug\net6.0\testes.AssemblyInfoInputs.cache
+C:\ws-vs2022\testes\testes\obj\Debug\net6.0\testes.AssemblyInfo.cs
+C:\ws-vs2022\testes\testes\obj\Debug\net6.0\testes.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\testes\testes\obj\Debug\net6.0\testes.dll
+C:\ws-vs2022\testes\testes\obj\Debug\net6.0\refint\testes.dll
+C:\ws-vs2022\testes\testes\obj\Debug\net6.0\testes.pdb
+C:\ws-vs2022\testes\testes\obj\Debug\net6.0\testes.genruntimeconfig.cache
+C:\ws-vs2022\testes\testes\obj\Debug\net6.0\ref\testes.dll
